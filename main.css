@@ -8,17 +8,17 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'bungee', cursive;
+    font-family: 'Quicksand', sans-serif;
     font-weight: normal;
 }
 
 body, input, textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 header {
     padding: 25px 0;
-    background-color: #182c61;
+    background-color: #000000;
     color: #ecf0f1;
     font-weight: normla;
 }
@@ -38,6 +38,10 @@ header nav li a:hover {
     text-decoration: underline;
     color: #ffffff;
 
+}
+
+body {
+    background-color: rgb(87, 10, 10);
 }
 
 .container {
@@ -75,7 +79,7 @@ section h2 {
 }
 
 section {
-    color: #182c61;
+    color: #ffffff;
 }
 
 section p {
@@ -84,10 +88,11 @@ section p {
 
 .store-front {
     margin-right: 32px;
+    margin-top: -10px;
 }
 
 .social-links img {
-    height: 24px;
+    height: 35px;
 }
 
 .social-links li { 
@@ -126,22 +131,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #a30e0e;
     color: #ffff;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #324e9c;
+    background-color: #9c3232c5;
 }
 
 input:focus, textarea:focus {
-    outline-color: #311861;
+    outline-color: #ffffff;
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #000000;
     color: #fff;
     padding: 16px 0;
 }
