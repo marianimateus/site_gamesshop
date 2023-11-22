@@ -18,7 +18,7 @@ body, input, textarea {
 
 header {
     padding: 25px 0;
-    background-color: #000000;
+    background-color: #000000d5;
     color: #ecf0f1;
     font-weight: normla;
 }
@@ -41,7 +41,7 @@ header nav li a:hover {
 }
 
 body {
-    background-color: rgb(87, 10, 10);
+    background-color: rgb(51, 3, 3);
 }
 
 .container {
@@ -138,7 +138,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #9c3232c5;
+    background-color: #000000d5;;
 }
 
 input:focus, textarea:focus {
@@ -146,7 +146,7 @@ input:focus, textarea:focus {
 }
 
 footer {
-    background-color: #000000;
+    background-color: #000000d5;;
     color: #fff;
     padding: 16px 0;
 }
